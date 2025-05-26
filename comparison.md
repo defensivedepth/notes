@@ -1,4 +1,4 @@
-# Zeek `http.log` Field Coverage: ECS vs OCSF
+kk# Zeek `http.log` Field Coverage: ECS vs OCSF
 
 This table compares how well the Elastic Common Schema (ECS) and the Open Cybersecurity Schema Framework (OCSF) cover the fields found in Zeek's `http.log`.
 
